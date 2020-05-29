@@ -22,3 +22,6 @@ Example : <br />
 
 # License
 This project is under the [MIT License](https://github.com/AgiMaulana/instagram-comments-scraper/blob/master/LICENSE.md)
+
+# Other reference
+* [Load more comments](https://www.youtube.com/watch?v=yebUIymZJm0)
