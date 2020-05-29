@@ -24,4 +24,8 @@ Example : <br />
 This project is under the [MIT License](https://github.com/AgiMaulana/instagram-comments-scraper/blob/master/LICENSE.md)
 
 # Other reference
-* [Load more comments](https://www.youtube.com/watch?v=yebUIymZJm0)
+* [Youtube: Load more comments](https://www.youtube.com/watch?v=yebUIymZJm0)
+* Type this in the Chrome Console and see the Network >> Preview >> "?query_hash"  (XHR)
+  * `document.querySelector("#react-root > section > main > div > div > article > div.eo2As > div.EtaWk > ul > li > div > button > span").click()`
+* Network >> Header >> Query Parameters >> "after"
+  * variables: {"shortcode":"CAbZ2X","first":12,"after":"QRXWlZJR01RY3YzbVcyTkRFc0dUMFY3blBvN24xaHhkTDR="}
